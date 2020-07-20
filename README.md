@@ -25,3 +25,4 @@ If your computer available ***python 3*** ==>
 
 - Install app 1.1.1.1 (if don't have..): https://one.one.one.one/
 - Get your Client ID: Settings > More Settings > Diagnostics > ID (copy this)
+[![Run on Repl.it](https://repl.it/badge/github/caocuong2404/get-warp-data)](https://repl.it/github/caocuong2404/get-warp-data)
